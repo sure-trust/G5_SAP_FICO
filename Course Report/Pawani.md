@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [BASIC STEPS OF FI AND CO IN SAP]     | [CLICK HERE]  (Mini Projects/Pavani/Mini projects/AP AND AR (AutoRecovered).pdf)                       |
+| Mini Projects: [basic concepts of SAP, AP AND AR]     | [CLICK HERE]  (Mini Projects/Pavani/AP AND AR (AutoRecovered).pdf),(Mini Projects/Pavani/ASSIGNMENT 1.pdf)                       |
 | Final Project: [STEPS TO CONFIGURE SAP IMPLEMENTATION]     | [CLICK HERE] (Final Capstone Projects/Pavani/Pawani's_SAP-FICO_Report.pdf)                         |
