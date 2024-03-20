@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
+| Mini Projects: AR & AP sap integration module    | [Click Here](https://github.com/Sidhartha333/G5_SAP_FICO/tree/main/Mini%20Projects/Sidhartha)                         |
 | Final Project: One By One step of SAP implementation      | [click here](https://github.com/Sidhartha333/G5_SAP_FICO/tree/main/Final%20Capstone%20Projects/Sidhartha)                         |
