@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [registration application] | [Click here](https://github.com/CHIGICHERLANEERAJA/G5_SAP_FICO/tree/main/Mini%20Projects/Neeraja)                       |
-| Final Project: [SAP FICO]                 | [Click here](https://github.com/CHIGICHERLANEERAJA/G5_SAP_FICO/blob/main/Final%20Capstone%20Projects/Neeraja/Neeraja's_SAP%20FICO_ASSIGNMENT%20.pdf)                      |
+| Mini Projects: [registration application] | [Click here](https://github.com/sure-trust/G5_SAP_FICO/tree/main/Mini%20Projects/Neeraja)                       |
+| Final Project: [SAP FICO]                 | [Click here](https://github.com/sure-trust/G5_SAP_FICO/tree/main/Final%20Capstone%20Projects/Neeraja)                      |
