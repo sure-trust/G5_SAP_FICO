@@ -19,7 +19,11 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the SAP FICO, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
-
+|Student Name|Link|
+|------------|----|
+|Bindu Priya|[Click Here](https://github.com/sure-trust/G5_SAP_FICO/blob/main/Course%20Report/Bindupriya.md)|
+|Pawani|[Click Here](https://github.com/sure-trust/G5_SAP_FICO/blob/main/Course%20Report/N%20pawani.md)|
+|Neeraja|[Click Here](https://github.com/sure-trust/G5_SAP_FICO/blob/main/Course%20Report/Neeraja.md)|
 
 
 ## Repository Description
