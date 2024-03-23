@@ -1,1 +1,0 @@
-# G5_SAP_FICO
